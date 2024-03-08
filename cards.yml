@@ -27,7 +27,7 @@
 build:
   version: 1.0.0
 
-accounts:
+cards:
   message: "Welcome to SpadaBank accounts related local APIs "
   contactDetails:
     name: "King dante - Developer"
