@@ -8,7 +8,7 @@ build:
   version: 3.0.0
 
 cards:
-  message: "Welcome to SpadaBank accounts related Prod APIs "
+  message: "Welcome to SpadaBank accounts related Production APIs "
   contactDetails:
     name: "King dante - Developer"
     email: "spada@spadabank.com"
